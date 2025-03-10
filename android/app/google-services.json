@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054631231635",
+    "project_id": "digitifyze-2bf21",
+    "storage_bucket": "digitifyze-2bf21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054631231635:android:f74e845b9390dee8adcd66",
+        "android_client_info": {
+          "package_name": "com.digitifyze.digitifyze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMuDXBVFchfhDOa2AeLwYumyeml0zZgtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

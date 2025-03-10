@@ -1,0 +1,103 @@
+name: digitifyze
+description: "A new Flutter project."
+
+#flutter version used: 3.27.1
+#dart: 3.6.0
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  cached_network_image: ^3.4.1
+  flutter_native_splash:
+  flutter_svg: ^2.0.17
+  shared_preferences: ^2.3.5
+  riverpod_annotation: ^2.6.1
+  intl:
+  page_transition: ^2.2.1
+  http: ^1.3.0
+  carousel_slider:
+  flutter_hooks: ^0.20.5
+  hooks_riverpod: ^2.6.1
+  flutter_riverpod: ^2.6.1
+  device_info_plus: ^11.2.1
+  flutter_screenutil: ^5.9.3
+  loader_overlay: ^5.0.0
+  loading_indicator: ^3.1.1
+  intl_utils: ^2.8.8
+  path_provider: ^2.1.5
+  path: ^1.9.0
+  image: ^4.5.2
+  image_picker: ^1.1.2
+  toastification: ^2.3.0
+  firebase_core: ^3.11.0
+  firebase_messaging: ^15.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.14
+  flutter_launcher_icons: ^0.14.3
+  json_serializable: ^6.9.0
+  riverpod_generator: ^2.6.3
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/login_app_logo.png"
+  min_sdk_android: 21
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/images/login_app_logo.png" # Make sure this image has transparency
+  image_dark: "assets/images/login_app_logo.png"
+  color_dark: "#FFFFFF"
+
+  android_12:
+    color: "#FFFFFF" # Matches the background color
+    icon_background_color: "#FFFFFF"
+    color_dark: "#FFFFFF" # Matches the background color
+    icon_background_color_dark: "#FFFFFF"
+
+  android: true
+  ios: true
+  fullscreen: true
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/images/app_logo/
+    - assets/font/
+    - assets/designtoken/
+
+  fonts:
+    - family: Lexend
+      fonts:
+        - asset: assets/font/lexend.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: assets/font/roboto.ttf
+
+    - family: BentonSans
+      fonts:
+        - asset: assets/font/benton_sans.ttf
+
+flutter_intl:
+  enabled: true
+  use_deferred_loading: true

@@ -1,0 +1,253 @@
+{
+  "Color_styles": {
+    "Brand": {
+      "Pastel Orange": {
+        "$type": "color",
+        "$value": "#ff9b55"
+      },
+      "Peach Orange": {
+        "$type": "color",
+        "$value": "#ffc59d"
+      },
+      "Linen Orange": {
+        "$type": "color",
+        "$value": "#ffefe6"
+      },
+      "Black": {
+        "$type": "color",
+        "$value": "#000000"
+      },
+      "Medium Gray": {
+        "$type": "color",
+        "$value": "#7a7a7a"
+      },
+      "Grey": {
+        "$type": "color",
+        "$value": "#8e8e93"
+      },
+      "Border Gray": {
+        "$type": "color",
+        "$value": "#e7e5ed"
+      },
+      "White": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "Placeholder Silver": {
+        "$type": "color",
+        "$value": "#c7c7cc"
+      },
+      "BodyBg": {
+        "$type": "color",
+        "$value": "#f9f9f9"
+      },
+      "DisableGray23": {
+        "$type": "color",
+        "$value": "#e5e5ea"
+      },
+      "Mineral Green": {
+        "$type": "color",
+        "$value": "#455A64"
+      },
+      "White Smoke": {
+        "$type": "color",
+        "$value": "#F5F5F5"
+      },
+      "Peachy Orange": {
+        "$type": "color",
+        "$value": "#FF9A6C"
+      },
+      "Light Mustard": {
+        "$type": "color",
+        "$value": "#EBD557"
+      },
+      "Lime Green": {
+        "$type": "color",
+        "$value": "#27C10C"
+      },
+      "Blue Charcoal": {
+        "$type": "color",
+        "$value": "#09051C"
+      },
+      "Blue Crystal": {
+        "$type": "color",
+        "$value": "#5EC4FF"
+      },
+      "Dull Yellow": {
+        "$type": "color",
+        "$value": "#FFCC5E"
+      },
+      "Deep Peach": {
+        "$type": "color",
+        "$value": "#FFBF9D"
+      },
+      "Soft Peach": {
+        "$type": "color",
+        "$value": "#EBEBEB"
+      },
+      "Reddish Orange": {
+        "$type": "color",
+        "$value": "#EB996E"
+      },
+      "Light Orange Peach": {
+        "$type": "color",
+        "$value": "#FFBE9D"
+      },
+      "Disable Gray": {
+        "$type": "color",
+        "$value": "#E0E0E0"
+      },
+      "Peach": {
+        "$type": "color",
+        "$value": "#FFA882"
+      },
+      "Coffee": {
+        "$type": "color",
+        "$value": "#AD8740"
+      },
+      "Sunrise Orange": {
+        "$type": "color",
+        "$value": "#DD6A48"
+      },
+      "Old Copper": {
+        "$type": "color",
+        "$value": "#6F4439"
+      },
+      "Brown Pink": {
+        "$type": "color",
+        "$value": "#AE7461"
+      },
+      "DisableGray5": {
+        "$type": "color",
+        "$value": "#FF725E"
+      },
+      "Orange Pink": {
+        "$type": "color",
+        "$value": "#0A66C2"
+      },
+      "Dark Slate Grey": {
+        "$type": "color",
+        "$value": "#263238"
+      },
+      "Bright Sky Blue": {
+        "$type": "color",
+        "$value": "#00B7F8"
+      },
+      "Vista White": {
+        "$type": "color",
+        "$value": "#FAFAFA"
+      },
+      "Royal Brown": {
+        "$type": "color",
+        "$value": "#5C3030"
+      },
+      "Pale Peach": {
+        "$type": "color",
+        "$value": "#E4BAA7"
+      },
+    "Light Black": {
+        "$type": "color",
+        "$value": "#1E0D0D"
+      },
+      "Carbon Grey": {
+        "$type": "color",
+        "$value": "#625858"
+      },
+      "Peach Platinum": {
+        "$type": "color",
+        "$value": "#F3E1D9"
+      },
+      "Celestial Blue": {
+        "$type": "color",
+        "$value": "#4596EA"
+      },
+      "White Lilac": {
+        "$type": "color",
+        "$value": "#F9F8FD"
+      },
+      "Metalic Silver": {
+        "$type": "color",
+        "$value": "#BBC3CE"
+      },
+      "Mercury": {
+        "$type": "color",
+        "$value": "#E7E5ED"
+      },
+      "Cloudy Grey": {
+        "$type": "color",
+        "$value": "#6B6B6B"
+      },
+      "Dark Grey": {
+        "$type": "color",
+        "$value": "#3B3B3B"
+      },
+      "Dust Grey": {
+        "$type": "color",
+        "$value": "#A1A1A1"
+      },
+      "Irish Green": {
+        "$type": "color",
+        "$value": "#01B41F"
+      },
+      "Light Orange Mustard": {
+        "$type": "color",
+        "$value": "#FFCF6F"
+      },
+      "Tomato Orange": {
+        "$type": "color",
+        "$value": "#FF725E"
+      },
+      "Orangey Yellow": {
+        "$type": "color",
+        "$value": "#FEAD1D"
+      },
+      "Lavender Grey": {
+        "$type": "color",
+        "$value": "#C4C4C4"
+      },
+      "Blue Lotus": {
+        "$type": "color",
+        "$value": "#5A6CEA"
+      },
+      "Blue Light Lotus": {
+        "$type": "color",
+        "$value": "#5A6CEA0D"
+      },
+      "Soft Lavender Blue": {
+        "$type": "color",
+        "$value": "#E8ECF9"
+      },
+      "Error Red": {
+        "$type": "color",
+        "$value": "#B00020"
+      },
+      "Custom Blue": {
+        "$type": "color",
+        "$value": "#0D69C4"
+      },
+      "Custom Gray": {
+        "$type": "color",
+        "$value": "#888888"
+      },
+
+      "Linear": {
+        "$type": "gradient",
+        "$value": {
+          "type": "linear",
+          "angle": 90,
+          "stops": [
+            {
+              "color": "#FFFFFF",
+              "position": 0
+            },
+            {
+              "color": "#97ECFF",
+              "position": 0.4
+            }
+
+          ]
+        }
+      }
+    }
+  }
+}
